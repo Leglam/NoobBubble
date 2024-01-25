@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoobBubble", "NoobBubble\NoobBubble.csproj", "{A3F463FC-D25D-44B3-B4B5-622A6C0DCC30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F463FC-D25D-44B3-B4B5-622A6C0DCC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F463FC-D25D-44B3-B4B5-622A6C0DCC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F463FC-D25D-44B3-B4B5-622A6C0DCC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F463FC-D25D-44B3-B4B5-622A6C0DCC30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {139D36A4-0D4D-4D5C-ADA0-84853996E313}
+	EndGlobalSection
+EndGlobal
